@@ -30,15 +30,10 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img height="170em" src="https://github-readme-stats-eta-one.vercel.app/api?username=PieroJurupe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br/><br/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PieroJurupe&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<br/><br/>
-
 <img src="https://github-readme-stats-eta-one.vercel.app/api/top-langs/?username=PieroJurupe&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-
 </div>
 
 ---
