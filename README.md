@@ -89,7 +89,7 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects I've worked on & supported
 
 <div align="center">
 
