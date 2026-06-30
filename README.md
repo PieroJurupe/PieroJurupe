@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PieroJurupe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PieroJurupe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piero_Jurupe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-jurupe/)
 [![Website](https://img.shields.io/badge/Web-pixeup.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pixeup.dev/)
-[![Email](https://img.shields.io/badge/Email-pjerojurupeq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjerojurupeq@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pierojurupeq@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierojurupeq@gmail.com)
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=PieroJurupe.profile)](https://github.com/PieroJurupe)
 
 </div>
@@ -148,7 +148,7 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PieroJurupe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piero-jurupe/)
 [![Website](https://img.shields.io/badge/Web-pixeup.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pixeup.dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pjerojurupeq@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierojurupeq@gmail.com)
 
 </div>
 
