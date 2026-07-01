@@ -91,12 +91,12 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 | App | Description | Impact |
 |---|---|---|
-| **Bitel Ventas** 📱 | Android app for the national sales force — manage POS and customer ops | 100k+ downloads on Play Store |
-| **Activa** 📱 | Streamlines line activations and field operations | 100k+ downloads on Play Store |
-| **MBCCS** 📱 | Internal sales tool used nationwide | 100k+ downloads on Play Store |
-| **Sistemas empresariales** 🏢 | Internal enterprise systems — data, attendance, ops flows | Multi-client maintenance |
-| **Automatización** ⚙️ | Scripts + secure server-to-device automation | Internal tooling |
-| **QA Pipelines** 🧪 | Automated testing pipelines for mobile + internal systems | QA tooling |
+| **Bitel Ventas** | Android app for the national sales force — manage POS and customer ops | 100k+ downloads on Play Store |
+| **Activa** | Streamlines line activations and field operations | 100k+ downloads on Play Store |
+| **MBCCS** | Internal sales tool used nationwide | 100k+ downloads on Play Store |
+| **Sistemas empresariales** | Internal enterprise systems — data, attendance, ops flows | Multi-client maintenance |
+| **Automatización** | Scripts + secure server-to-device automation | Internal tooling |
+| **QA Pipelines** | Automated testing pipelines for mobile + internal systems | QA tooling |
 
 </div>
 
