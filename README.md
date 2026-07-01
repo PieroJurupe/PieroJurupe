@@ -16,18 +16,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Mobile Android Developer focused on shipping production apps with **Kotlin** and **Java**. I care about clean architecture, performance, and features that genuinely improve the user experience. Also comfortable on the backend with **Java/Spring Boot** and on the web with **PHP/Laravel + React**.
 
-- 📱 Currently building Android apps at **Viettel Perú** (Aug 2025 – Present)
-- 🎓 BSc. Systems Engineering — Universidad Tecnológica del Perú
-- 🌎 Lima, Perú 🇵🇪
-- ⚡ "First, solve the problem. Then, write the code."
+- Currently building Android apps at **Viettel Perú** (Aug 2025 – Present)
+- BSc. Systems Engineering — Universidad Tecnológica del Perú
+- Lima, Perú 🇵🇪
+- "First, solve the problem. Then, write the code."
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 <img height="170em" src="https://github-readme-stats-eta-one.vercel.app/api?username=PieroJurupe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -38,11 +38,11 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-**Mobile (focus)**
+**Mobile**
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -85,7 +85,7 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 ---
 
-### 🚀 Projects I've worked on & supported
+### Projects I've worked on & supported
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Android Developer (Kotlin/Java)** — *Viettel Perú S.A.C.* &nbsp; `Aug 2025 – Present`
 - Ship Android features in Kotlin with focus on UX and stability.
@@ -123,21 +123,21 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 ---
 
-### 🎓 Education
+### Education
 
 - **BSc. Systems Engineering** — Universidad Tecnológica del Perú (2019 – 2024)
 - **English Studies** — Centro Cultural Británico (2017 – 2019)
 
 ---
 
-### 🌐 Languages
+### Languages
 
-- 🇪🇸 Español — Native
-- 🇬🇧 English — Professional working
+- Español — Native
+- English — Professional working
 
 ---
 
-### 🤝 Connect
+### Connect
 
 <div align="center">
 
@@ -152,6 +152,6 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 
 <div align="center">
 
-<sub>⚡ Built with ❤️ from Lima, Perú — Last updated 2026</sub>
+<sub> Lima, Perú — Last updated 2026</sub>
 
 </div>
