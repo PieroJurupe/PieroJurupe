@@ -23,7 +23,7 @@ Mobile Android Developer focused on shipping production apps with **Kotlin** and
 - Currently building Android apps at **Viettel Perú** (Aug 2025 – Present)
 - BSc. Systems Engineering — Universidad Tecnológica del Perú
 - Lima, Perú 🇵🇪
-- "First, solve the problem. Then, write the code."
+- "Programming is also about transmitting"
 
 ---
 
